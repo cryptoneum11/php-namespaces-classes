@@ -1,0 +1,6 @@
+{
+	"name": "cryptoneum11/php-code2",
+	"require": {
+		"monolog/monolog": "1.0.*"
+	}
+}
